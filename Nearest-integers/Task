@@ -1,0 +1,1 @@
+Write a C program that reads a real (double type) number and returns the nearest smaller and larger integers. Use the functions double ceil(double) and double floor(double).
