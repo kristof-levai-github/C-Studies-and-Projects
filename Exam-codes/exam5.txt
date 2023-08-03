@@ -1,0 +1,7 @@
+Write a C program that keeps track of a computer game development company's annual net revenue in dollars (integer value) for 10 years in a suitable one-dimensional array. Implement the following subtasks in separate functions, adhering to the command-query separation principle, avoiding global variables, and using the top-down programming approach:
+
+    Fill the array with random values between 15,000 and 85,000.
+    Print the elements of the array.
+    Calculate the total revenue for 10 years.
+    Read an interval in a checked manner, which should be between 1 and 10 (lower and upper bounds).
+    Print the percentage of revenue for each year in the given interval compared to the total revenue of 10 years. The function's input parameters should include the time period and the total revenue for 10 years.

@@ -1,0 +1,7 @@
+Write a C program that keeps track of the heights of a group of 10 students in a suitable one-dimensional array, measured in centimeters. Implement the following subtasks in separate functions, adhering to the command-query separation principle, avoiding global variables, and following the top-down programming approach.
+
+    Fill the array with random integer values between 135 and 190.
+    Sort the array in ascending order.
+    Print the elements of the array.
+    Read a string in a checked manner, which should have a value of either "tall" or "short." Use the strcmp standard string handling function for the check.
+    Write a function that takes the specified string as one of its parameters. A student is considered "short" if their height is below 160 cm, otherwise, they are "tall." Print only the elements of the array that correspond to the specified string along with the descriptive text, e.g., "172cm - tall."
