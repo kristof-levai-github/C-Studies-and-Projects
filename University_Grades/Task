@@ -1,0 +1,18 @@
+University students have 6 exams every semester. At the end of each semester, based on the achieved academic average, we want to calculate the scholarship amount for the student for the next semester:
+Below 3.5: 0 HUF/month,
+Between 3.6 and 4.0: 5,000 HUF/month,
+Between 4.1 and 4.5: 10,000 HUF/month,
+Between 4.6 and 5.0: 15,000 HUF/month.
+Write a C program that reads the exam grades of a student, stores them in an array, calculates the academic average, and prints the monthly scholarship amount!
+
+Example input:
+4
+2
+3
+5
+4
+2
+
+Example output:
+Academic average: 3.33
+Monthly scholarship: 0 HUF
